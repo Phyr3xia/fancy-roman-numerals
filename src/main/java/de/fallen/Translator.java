@@ -1,4 +1,4 @@
-package de.rossmann;
+package de.fallen;
 
 import java.util.HashMap;
 import java.util.Map;
